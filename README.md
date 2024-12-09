@@ -1,22 +1,16 @@
-Send2App
-App Notification
+Custom Notifications: Enhance User Engagement with Send2App
 
 ![1blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
 
-Introduction ⚡
-In today’s mobile applications, effective communication with users is crucial. The Send2App Flutter package allows developers to seamlessly integrate custom notifications, enhancing user engagement through various notification types such as text, images, URLs, rich cards, suggestions, and live activities.
+Introduction for notifications app⚡
+The Send2App Flutter package enhances user engagement through effective notifications on Android and iPhone platforms. By offering custom notifications and a comprehensive notification history, users can easily access important alerts. This ensures timely communication and improves overall user satisfaction.
 
-Features 👇
-Text Notifications: Simple notifications with a title and message.
-
-Image Notifications: Notifications that include images for enhanced visual appeal.
-
-URL Notifications: Notifications that link to specific web pages.
-
-Rich Card Notifications: Detailed notifications with images, titles, descriptions, and action buttons.
-
+App Notification Features 👇
+Message Notifications: Simple alert with a title and message.
+Image Notifications: Alert that include images for enhanced visual appeal.
+URL Notifications: Alert that link to specific web pages.
+Rich Card Notifications: Detailed push notifications with images, titles, descriptions, and action buttons.
 Suggestion Notifications: Recommendations based on user preferences.
-
 Live Activity Notifications: Real-time updates on the user’s Lock Screen or Notification Center.
 
 Notification Types 🔔
